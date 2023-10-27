@@ -3,6 +3,7 @@ logs
 *.log
 npm-debug.log*
 .pnpm-debug.log*
+db-dump/
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
